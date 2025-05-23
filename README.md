@@ -28,8 +28,8 @@
 
 ## 🚀 Repositório em destaque
 
-- 🐸 [`Frog-n-Roll`](https://github.com/Kaique62/Frog-n-Roll) – Repositório principal do jogo *(Privado ou em andamento)*
-- 🛠 Ferramentas – Utilitários e scripts para editor Unity que suportam o gameplay
+- 🐸 [`Frog-n-Roll`](https://github.com/Kaique62/Frog-n-Roll) – Repositório principal do jogo *(Em andamento)*
+- 🛠 Linguagem Principal– C# na Unity 6
 
 ---
 
