@@ -18,7 +18,7 @@
 
 ## 🛠 Tecnologias
 
-|Linguagens || |
+|Linguagens e Ferramentas || |
 |----------------------|-------------|--------|
 | 🎮 Unity             | 💬 C#       | 🔧 GitHub Actions |
 | 🗃 SQL            | 🌐 JavaScript | 📦 Node.js / Express |
