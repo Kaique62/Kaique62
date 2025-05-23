@@ -20,9 +20,9 @@
 
 |Linguagens e Ferramentas || |
 |----------------------|-------------|--------|
-| 🎮 Unity             | 💬 C#       | 🔧 GitHub Actions |
+| 🎮 Unity             | 💬 C#       | 🔧 Python|
 | 🗃 SQL            | 🌐 JavaScript | 📦 Node.js / Express |
-| 📂 Scriptable Objects | 📱 Flutter  | 🕹 Mobile + WebGL |
+| 📂 Dotnet | 📱 Flutter  | 🕹 Mobile + WebGL |
 
 ---
 
