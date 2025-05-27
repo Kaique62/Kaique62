@@ -12,8 +12,8 @@
 
 - 🎮 Feito com **Unity 6 + C#**
 
-> Atualmente em desenvolvimento. Lançamento em breve™!
-
+> Atualmente em desenvolvimento. Lançamento em breve!
+(Previsão: até 18/06/2025)
 ---
 
 ## 🛠 Tecnologias
