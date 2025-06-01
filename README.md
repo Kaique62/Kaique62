@@ -8,7 +8,7 @@
 > _Um jogo de plataforma estiloso baseado em ritmo, onde a música guia cada movimento._
 
 **Frog’n Roll**:  
-É um emocionante jogo de plataforma rítmico desenvolvido na Unity 6. Controle um sapo que ama música e sincronize seus movimentos com a batida para superar desafios, derrotar inimigos e enfrentar chefes épicos. O jogo combina ação rítmica e mecânicas clássicas de plataforma para proporcionar uma experiência única e envolvente.
+Jogo de plataforma rítmico desenvolvido na Unity 6. Controle um sapo que ama música e sincronize seus movimentos com a batida para superar desafios, derrotar inimigos e enfrentar chefes épicos. O jogo combina ação rítmica e mecânicas clássicas de plataforma para proporcionar uma experiência única e envolvente.
 
 - 🎮 Feito com **Unity 6 + C#**
 
@@ -28,7 +28,7 @@
 
 ## 🚀 Repositório em destaque
 
-- 🐸 [`Frog-n-Roll`](https://github.com/Kaique62/Frog-n-Roll) – Repositório principal do jogo *(Em andamento)*
+- 🐸 [`Frog-n-Roll`](https://github.com/Kaique62/Frog-n-Roll-U6) – Repositório principal do jogo *(Em andamento)*
 - 🛠 Linguagem Principal– C# na Unity 6
 
 ---
