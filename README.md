@@ -29,6 +29,10 @@ Jogo de plataforma rítmico desenvolvido na Unity 6. Controle um sapo que ama m�
   <img src="https://img.shields.io/badge/.NET-Core-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
   <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/WebGL-Jogos%20na%20Web-orange?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL Badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Backend%20e%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/> 
+  <img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> 
+  <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> 
+  <img src="https://img.shields.io/badge/MediaPipe-Visão%20Computacional-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe Badge"/>
 </p>
 
 ## 🚀 Repositório em destaque
