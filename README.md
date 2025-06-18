@@ -59,7 +59,7 @@ Jogo de plataforma r√≠tmico desenvolvido na Unity 6. Controle um sapo que ama m√
     <img src="https://img.shields.io/badge/YouTube-kaique6290-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://www.instagram.com/kaiq.tt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@kaiq.tt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-@kaiq_tt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://discord.com/users/884198760855699466" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kaique3074-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
