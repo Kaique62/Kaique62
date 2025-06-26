@@ -11,9 +11,6 @@
 Jogo de plataforma rítmico desenvolvido na Unity 6. Controle um sapo que ama música e sincronize seus movimentos com a batida para superar desafios, derrotar inimigos e enfrentar chefes épicos. O jogo combina ação rítmica e mecânicas clássicas de plataforma para proporcionar uma experiência única e envolvente.
 
 - 🎮 Feito com **Unity 6 + C#**
-
-> Atualmente em desenvolvimento. Lançamento em breve!
-(Previsão: até 18/06/2025)
 ---
 
 ## 🛠 Tecnologias
