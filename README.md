@@ -20,15 +20,6 @@ Tenho interesse em desenvolvimento de jogos, sistemas backend, aplicações desk
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique62&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique62&layout=compact&theme=tokyonight" width="49%" />
-</p>
-
----
-
 ## 📬 Contato e Redes Sociais
 
 <p align="center">
