@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kaique 👋</h1>
-<p align="center">🎮 Desenvolvedor de Jogos · 💻 Entusiasta em C# · 🌐 Dev Web</p>
+
 <p align="center">👨‍💻 Técnico em Desenvolvimento de Sistemas.  
-Tenho interesse em desenvolvimento de jogos, sistemas backend, aplicações desktop e mobile, além de visão computacional com MediaPipe.</p>
+Tenho interesse em desenvolvimento de jogos, sistemas backend e modelagem 3D</p>
 
 ---
 
@@ -26,8 +26,8 @@ Tenho interesse em desenvolvimento de jogos, sistemas backend, aplicações desk
   <a href="https://www.youtube.com/@kaique6290" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-kaique6290-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kaiq_tt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@kaiq_tt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/kaique_madureira7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@kaique_madureira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/884198760855699466" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kaique3074-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
